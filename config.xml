@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <widget version="1.0.0">
-    <name>App-Name</name>
+    <name>Don</name>
     <description>
-        App-Beschreibung
+        Eine wunderschöne App von Patrick Don Stadler
     </description>
     <author>
-        Dein Name
+        Patrick
     </author>
 
     <!-- General settings -->
@@ -24,7 +24,7 @@
     <plugin name="cordova-plugin-statusbar" spec="2.4.2" />
 
     <!-- Icons and Splashscreens-->
-<!--
+
     <platform name="ios">
       <icon src="res/icon/ios/icon-1024.png" width="1024" height="1024"/>
       <icon src="res/icon/ios/icon-small.png" width="29" height="29"/>
@@ -48,6 +48,7 @@
       <icon src="res/icon/ios/icon-83.5@2x.png" width="167" height="167"/>
     </platform>
 
+<!--
     <platform name="android">
       <icon density="ldpi" src="res/icon/android/ldpi.png"/>
       <icon density="mdpi" src="res/icon/android/mdpi.png"/>
